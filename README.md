@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhdadamo
-- 👀 I’m interested in PHP, C#, JAVA, JavaScript and HTML5
-- 🌱 I’m currently learning about LAravel 8 ande PHP 8
+- 👀 I’m interested in Python, R, PHP, C#, JAVA, JavaScript and HTML5
+- 🌱 I’m currently learning about Laravel 8 and PHP 8
 - 💞️ I’m looking to collaborate in some project.
 - 📫 How to reach me, with a message.
 
